@@ -10,6 +10,7 @@
     "babel-loader": "^7.0",
     "babel-preset-env": "*",
     "babel-preset-react": "*"
+    "homepage": "https://gvholley.github.io/movie-search-app"
   },
   "scripts": {
     "build": "webpack",
